@@ -131,7 +131,7 @@ Contributions are welcome!
 ---
 
 ## 📧 **Contact**  
-For any queries or suggestions, please contact [varshi](pamarthivarshini2@gmail.com)
+For any queries or suggestions, please contact [varshi](mailto:pamarthivarshini2@gmail.com).
 
 ---
 ## ⭐ **Acknowledgments**  
